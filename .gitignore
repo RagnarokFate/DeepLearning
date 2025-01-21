@@ -1,0 +1,30 @@
+# ignore specific files 
+
+# Ignore environment variables
+.env
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+# Ignore Python virtual environments
+venv/
+__pycache__/
+
+
+# # ignore database files in hw0,hw1,hw2,hw3
+# ./hw0/data/*
+# ./hw1/data/*
+# ./hw2/data/*
+# ./hw3/data/*
+
+# Ignore data folders in each HW directory
+HW0/data/
+HW1/data/
+HW2/data/
+HW3/data/
+
